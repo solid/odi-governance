@@ -1,5 +1,9 @@
 ### **Proposed Governance Structure for Solid**
 
+This is the proposed governance structure for steering the work that the Open Data Institute (ODI) does in its work Stewarding Solid. It is open for a 3 week consultation phase, closing at 23:59PM GMT on February 28, 2025.
+
+If you would like to give feedback on this proposal, please open an issue on this repository. We ask that discussions take place in issues, and that no PRs are made to this document. Any required changes to this document will be made after the end of the consultation period.
+
 #### **ODI Governance Structure** 
 
 Last October, ODI took responsibility for the stewardship of Solid. This means that Solid sits as an initiative within the ODI structure. 
@@ -70,7 +74,7 @@ The recommended members of the Advisory Committee we believe should include:
 
 With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C working group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
 
-Please note that there should only be one representative from organisations outside of the chairs and Tim.
+Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
 
 **Meetings** 
 
