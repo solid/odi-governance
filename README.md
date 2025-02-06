@@ -59,7 +59,6 @@ The recommended members of the Advisory Committee we believe should include:
 | ODI Representative                           | ODI                                    |
 | W3C Group Representative                     | W3C Group Chair                        |
 | Solid Community Group Representative         | Solid Community Group Chair            |
-| SME use case representative                  | TBA                                    |
 | Government - citizen data                    | TBA                                    |
 | Sustainability representative                | TBA                                    |
 | Social good representation                   | TBA                                    |
