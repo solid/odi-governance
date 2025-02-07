@@ -71,7 +71,7 @@ The recommended members of the Advisory Committee we believe should include:
 
 **Selection process**
 
-With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C working group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
+With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C Working Group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
 
 Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
 
