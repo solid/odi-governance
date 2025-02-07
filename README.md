@@ -87,8 +87,6 @@ ODI is happy to help implement this group based on advice from the Advisory Comm
 
 As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritisation.
 
-Whilst we are waiting on resourcing to come through, Jesse will follow up with Timea to see if she is still interested in contributing to Solid on a volunteer basis \- and if so, whether she can lead work focussed on SolidOS UX improvements.
-
 **Members \-** open recruitment but through self nomination and voting from the community.
 
 **Other potential groups** 
