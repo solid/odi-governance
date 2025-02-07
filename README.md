@@ -2,7 +2,7 @@
 
 This is the proposed governance structure for steering the work that the Open Data Institute (ODI) does in its work Stewarding Solid. It is open for a 3 week consultation phase, closing at 23:59PM GMT on February 28, 2025.
 
-If you would like to give feedback on this proposal, please open an issue on this repository. We ask that discussions take place in issues, and that no PRs are made to this document. Any required changes to this document will be made after the end of the consultation period.
+If you would like to give feedback on this proposal, please open an issue on this repository. We ask that discussions take place in issues, and that no PRs are made to this document. Any required substantive changes to this document will be made after the end of the consultation period.
 
 #### **ODI Governance Structure** 
 
@@ -55,7 +55,7 @@ The recommended members of the Advisory Committee we believe should include:
 
 | Role                                         | Name/Position                          |
 |----------------------------------------------|----------------------------------------|
-| Inventor of Solid                            | Tim Berners-Lee                        |
+| Lead of the Solid Project                    | Tim Berners-Lee                        |
 | ODI Representative                           | ODI                                    |
 | W3C Group Representative                     | W3C Group Chair                        |
 | Solid Community Group Representative         | Solid Community Group Chair            |
@@ -71,13 +71,13 @@ The recommended members of the Advisory Committee we believe should include:
 
 **Selection process**
 
-With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C working group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
+With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C working group and Solid Community Committee) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
 
 Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
 
 **Meetings** 
 
-There will be four meetings per year.   Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy.  Initially once we establish the Advisory Group we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
+There will be four meetings per year.   Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy.  Initially once we establish the Advisory Committee we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
 
 **Solid Operations Advisory Group (formerly Solid team)** 
 
@@ -98,7 +98,7 @@ Whilst we are waiting on resourcing to come through, Jesse will follow up with T
 
 **Escalation and conflict resolution**
 
-**Advisory Committee** \- is an advisory group that recommends particular courses of action with a focus on strategic direction. In the event of a conflict the matter would be referred to the ODI Board.  It should be noted that throughout the time that ODI has stewarded initiatives there has never been an escalation that required intervention from the ODI Board.
+**Advisory Committee** \- is a group that recommends particular courses of action with a focus on strategic direction. In the event of a conflict the matter would be referred to the ODI Board.  It should be noted that throughout the time that ODI has stewarded initiatives there has never been an escalation that required intervention from the ODI Board.
 
 **Solid Operations Advisory Group** \- ODI Director / Head of Technology will make a decision in the event of a dispute.  
 
