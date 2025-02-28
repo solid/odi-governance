@@ -37,7 +37,7 @@ The **Executive Leadership Team** reports to the Board and consists of the follo
 | Stuart Coleman    | Director of Consultancy and Learning       |
 | Emma Thwaites     | Director of Global Public Policy and Corporate Affairs |
 
-The ODI is structured through different disciplines.  Solid sits in the **Technology Discipline**.  The Technology Discipline structure delivery of projects / initiatives in the following way:
+The ODI is structured through different disciplines. Solid sits in the **Technology Discipline**. The Technology Discipline structure delivery of projects / initiatives in the following way. All of the following roles are appointed through the existing hiring and contracting processes that the ODI has in place.
 
 | Role                     | Responsibility          | Name/Position         |
 |--------------------------|-------------------------|-----------------------|
@@ -81,11 +81,16 @@ There will be four meetings per year.   Three half day meetings (3 hours) will b
 
 **Solid Operations Advisory Group (formerly Solid team)** 
 
-This group advises on key areas including the solid website, hosting structure for PODs,  solidcommunity.net, github.
+In contrast, the Solid Operations Advisory Group is a volunteer group that is self-nominated and elected by the community. This group is not expected to do substantive day-to-day work, but rather act as representatives that guide key decisions - for instance, they would have been consulted on whether to proceed with the recent solidcommunity.net migration. They would also be advising on the infrastructure roadmap which would guide where employed maintenance staff in the Project/Initiative Team would focus their time.
 
-ODI is happy to help implement this group based on advice from the Advisory Committee. We would suggest that members are in place for a 2 year term. 
+Infrastructure that this group would advise on includes:
+ - solidproject.org
+ - solidcommunity.net
+ - Repositories under the [solid](https://github.com/solid/) and [solid-contrib](https://github.com/solid-contrib/) GitHub organisations
 
 As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritisation.
+
+ODI is happy to help implement this group based on advice from the Advisory Committee. We would suggest that members are in place for a 2 year term. 
 
 **Members \-** open recruitment but through self nomination and voting from the community.
 
