@@ -102,7 +102,7 @@ As ODI gets resources to start supporting the implementation of a roadmap for So
 
 **International Solid Chapters** 
 
-There is likely to be funding available for Solid within different countries around the world.  We discussed this at the ODI Board and agreed that we should keep the cost of setting up in some countries to a minimum as we want to concentrate the funding on building Solid.  The recommendation therefore is that ODI could open branch offices in other countries. 
+There is likely to be funding available for Solid within different countries around the world.  We discussed this at the ODI Board and agreed that we should keep the cost of setting up in some countries to a minimum as we want to concentrate the funding on building Solid.  The recommendation therefore is that ODI could open branch offices in other countries. In countries where a branch structure is not legally sound or cost-effective, other structures will be considered on a case-by-case basis.
 
 A branch is not a separate legal entity but merely an extension of the ODI enabling an office to exist within a territory.   This model would provide Solid with the benefits of the ODI brand, governance, and compliance processes with support from the existing team / back office. It is a low cost option enabling us to work in different countries especially where local funding is available to support Solid. 
 
