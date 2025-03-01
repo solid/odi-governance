@@ -81,7 +81,7 @@ There will be four meetings per year.   Three half day meetings (3 hours) will b
 
 **Solid Operations Advisory Group (formerly Solid team)** 
 
-In contrast, the Solid Operations Advisory Group is a volunteer group that is self-nominated and elected by the community. This group is not expected to do substantive day-to-day work, but rather act as representatives that guide key decisions - for instance, they would have been consulted on whether to proceed with the recent solidcommunity.net migration. They would also be advising on the infrastructure roadmap which would guide where employed maintenance staff in the Project/Initiative Team would focus their time.
+The Solid Operations Advisory Group is a volunteer group that is self-nominated and elected by the community. This group is not expected to do substantive day-to-day work, but rather act as representatives that guide key decisions - for instance, they would have been consulted on whether to proceed with the recent solidcommunity.net migration. They would also be advising on the infrastructure roadmap which would guide where employed maintenance staff in the Project/Initiative Team would focus their time.
 
 Infrastructure that this group would advise on includes:
  - solidproject.org
