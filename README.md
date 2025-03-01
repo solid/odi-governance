@@ -49,7 +49,7 @@ The ODI is structured through different disciplines.  Solid sits in the **Techno
 
 **Advisory Committee**
 
-A group of appointed individuals responsible for overseeing Solid, advising on strategic decisions and sustainability. 
+A group of appointed individuals responsible for overseeing Solid, advising on strategic decisions and sustainability. This group will also set the vision, mission and values of the project.
 
 The recommended members of the Advisory Committee we believe should include:  
 
