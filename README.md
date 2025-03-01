@@ -87,6 +87,8 @@ Infrastructure that this group would advise on includes:
  - solidproject.org
  - solidcommunity.net
  - Repositories under the [solid](https://github.com/solid/) and [solid-contrib](https://github.com/solid-contrib/) GitHub organisations
+ 
+The above list is not exhaustive, the Solid Operations Advisory Group can recommend infrastructure that they deem appropriate to advise on. 
 
 As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritisation.
 
