@@ -6,7 +6,7 @@ If you would like to give feedback on this proposal, please open an issue on thi
 
 #### **ODI Governance Structure** 
 
-Last October, ODI took responsibility for the stewardship of Solid. This means that Solid sits as an initiative within the ODI structure. 
+Last October, ODI took responsibility for the stewardship of Solid. This means that Solid sits as an initiative within the ODI [structure](https://theodi.org/about-the-odi/the-odi-team/) and [governance](https://theodi.org/our-policies/governance-statement/). 
 
 The ODI is a UK based not for profit organisation founded by Sir Tim Berners-Lee and Sir Nigel Shadbolt. Sir Tim (President) and Sir Nigel (Chair) are the **founding members** of the ODI.  They are supported by a **Board of Directors** which consists of the following members:
 
