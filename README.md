@@ -37,7 +37,7 @@ The **Executive Leadership Team** reports to the Board and consists of the follo
 | Stuart Coleman    | Director of Consultancy and Learning       |
 | Emma Thwaites     | Director of Global Public Policy and Corporate Affairs |
 
-The ODI is structured through different disciplines. Solid sits in the **Technology Discipline**. The Technology Discipline structure delivery of projects / initiatives in the following way. All of the following roles are appointed through the existing hiring and contracting processes that the ODI has in place.
+The ODI is structured through different disciplines. Solid sits in the **Technology Discipline**. The Technology Discipline structure delivery of projects / initiatives in the following way. All the following roles are appointed through the existing hiring and contracting processes that the ODI has in place. ODI hiring complies with the [Equal Opportunities & Diversity](./odi-eoad.pdf) policy and contracting follows the [ODI Procurement Policy](https://theodi.org/our-policies/procurement-policy/).
 
 | Role                     | Responsibility          | Name/Position         |
 |--------------------------|-------------------------|-----------------------|
@@ -71,13 +71,13 @@ The recommended members of the Advisory Committee we believe should include:
 
 **Selection process**
 
-With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C Working Group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
+With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C Working Group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member, but the general rule is that these roles are voluntary. 
 
 Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
 
 **Meetings** 
 
-There will be four meetings per year.   Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy.  Initially once we establish the Advisory Committee we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
+There will be four meetings per year. Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy. Initially once we establish the Advisory Committee we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
 
 **Solid Operations Advisory Group (formerly Solid team)** 
 
@@ -86,7 +86,7 @@ The Solid Operations Advisory Group is a volunteer group that is self-nominated 
 Infrastructure that this group would advise on includes:
  - solidproject.org
  - solidcommunity.net
- - Repositories under the [solid](https://github.com/solid/) and [solid-contrib](https://github.com/solid-contrib/) GitHub organisations
+ - Repositories under the [solid](https://github.com/solid/) and [solid-contrib](https://github.com/solid-contrib/) GitHub organisations.
  
 The above list is not exhaustive, the Solid Operations Advisory Group can recommend infrastructure that they deem appropriate to advise on. 
 
