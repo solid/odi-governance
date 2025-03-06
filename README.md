@@ -64,7 +64,7 @@ The recommended members of the Advisory Committee we believe should include:
 | Social good representation                   | TBA                                    |
 | Representatives from the commercial sector   | 2 TBA positions                            |
 | Commercial implementors                      | 2 TBA positions                            |
-| Open source implementers representative      | 2 TBA positions                            |
+| Open source and/or implementers representative | 2 TBA positions                            |
 | Civil society organisation to challenge positions | TBA                                |
 | Major funders (at least $1m per annum funding) | 2 TBA positions (Yet to be secured)       |
 | Chapter leads - Country representatives      | Not established as yet                 |
