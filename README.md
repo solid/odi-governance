@@ -71,13 +71,32 @@ The recommended members of the Advisory Committee we believe should include:
 
 **Selection process**
 
-With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C Working Group and Solid Community Group) will run the selection process. There may be the option to offer some financial support for a member but the general rule is that these roles are voluntary. 
+With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C Working Group and Solid Community Group) will run the selection process.
+
+The selection process is as follows:
+ - The ODI nominates their representative, this will either be the ODI CEO, Director of Technology or Solid Lead
+ - The major funders select their representative
+ - The chapter lead is a fixed role, so are the representative by default
+ - The W3C Community Group and W3C Working Group chairs will discuss amongst themselves to nominate their own representative; noting that:
+   - They must represent their respective groups on the Advisory Committee, and not that of their affiliations,
+   - Any organizations that the chair are affiliated with are not able to submit representatives to the Advisory Committee,
+   - The selected Community Group and Working Group chairs must not have overlapping organisational affiliations,
+   - In the event that the chairs are unable to select a representative amongst themselves, they are to be elected by their respective group using the same [ranked choice voting process used to select Chairs of the Solid Community Group](https://www.w3.org/community/solid/charter/).
+ - The remaining roles are selected through an interview process. The roles are openly advertised and anyone may apply; applicants are asked to answer the following [competency questions](./competency-questions.md) and [Equal Opportunities & Diversity Monitoring Form](./ac-eoad-questions.md). The candidates will be selected by a panel consisting of:
+   - Tim Berners-Lee
+   - The ODI CEO
+   - The ODI Project Lead
+   - The W3C Community Group Representative
+   - The W3C Working Group Representative
+ - Candidates will be shortlisted by this panel - shortlisted applicants will then be interviewed by the panel. The W3C Community Group representative is permitted to collect feedback on the shortlisted candidates from the Community Group, and represent these views in the panel selection.
+
+There may be the option to offer some financial support for a member, but the general rule is that these roles are voluntary. 
 
 Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
 
 **Meetings** 
 
-There will be four meetings per year.   Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy.  Initially once we establish the Advisory Committee we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
+There will be four meetings per year. Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy.  Initially once we establish the Advisory Committee we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
 
 **Solid Operations Advisory Group (formerly Solid team)** 
 
