@@ -88,7 +88,7 @@ The selection process is as follows:
    - The ODI Project Lead
    - The W3C Community Group Representative
    - The W3C Working Group Representative
- - Candidates will be shortlisted by this panel - shortlisted applicants will then be interviewed by the panel. The W3C Community Group representative is permitted to collect feedback on the shortlisted candidates from the Community Group, and represent these views in the panel selection.
+ - Candidates will be shortlisted by this panel - shortlisted applicants will then be interviewed by the panel. [[EDITORIAL NOTE: Following sentence based on discussion with @CxRes, has not yet been discussed/decided on the ODI side]] The W3C Community Group representative is permitted to collect feedback on the shortlisted candidates from the Community Group, and represent these views in the panel selection.
 
 There may be the option to offer some financial support for a member, but the general rule is that these roles are voluntary. 
 
