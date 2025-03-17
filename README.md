@@ -81,7 +81,7 @@ The selection process is as follows:
    - They must represent their respective groups on the Advisory Committee, and not that of their affiliations,
    - Any organizations that the chair are affiliated with are not able to submit representatives to the Advisory Committee,
    - The selected Community Group and Working Group chairs must not have overlapping organisational affiliations,
-   - In the event that the chairs are unable to select a representative amongst themselves, they are to be elected by their respective group using the same [ranked choice voting process used to select Chairs of the Solid Community Group](https://www.w3.org/community/solid/charter/).
+   - In the event that the chairs are unable to select a representative amongst themselves, they are to be elected by their respective group using a Broda count vote.
  - The remaining roles are selected through an interview process. The roles are openly advertised and anyone may apply; applicants are asked to answer the following [competency questions](./competency-questions.md) and [Equal Opportunities & Diversity Monitoring Form](./ac-eoad-questions.md). The candidates will be selected by a panel consisting of:
    - Tim Berners-Lee
    - The ODI CEO
