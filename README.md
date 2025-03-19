@@ -100,13 +100,20 @@ There will be four meetings per year. Three half day meetings (3 hours) will be 
 
 **Solid Operations Advisory Group (formerly Solid team)** 
 
-This group advises on key areas including the solid website, hosting structure for PODs,  solidcommunity.net, github.
+This group advises on key areas including the solid website, hosting structure for PODs,  solidcommunity.net, GitHub.
 
-ODI is happy to help implement this group based on advice from the Advisory Committee. We would suggest that members are in place for a 2 year term. 
+ODI is happy to help implement this group based on advice from the Advisory Committee. We would suggest that members are in place for a 2-year term. 
 
-As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritisation.
+As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritization.
 
-**Members \-** open recruitment but through self nomination and voting from the community.
+The Solid Operations Advisory Group consists of three members elected using the [ranked choice voting process used to select Chairs of the Solid Community Group](https://www.w3.org/community/solid/charter/). Members are elected for 2-year terms. Specifically,
+ - There is a self-nomination process. Candidates are asked to submit a statement justifying their suitability to the role - including experiences and background that means they will ensure accessibility of infrastructure to a diverse range of developers and end users - towards the global vision of Solid. This will be made via a PR to a specified document in this repository. Nominees will have **10 days** from the date of announcement to self-nominate. To self-nominate, candidates must have [meaningfully contributed](https://github.com/solid/odi-governance/pull/20#discussion_r1989960723) to one of the following within the last 12 months, or be endorsed by two community members who have meaningfully contributed to one of the following within the last 12 months:
+   - solidproject.org,
+   - solidcommunity.net, and
+   - any repositories under the solid and solid-contrib GitHub organizations.
+ - There will be a **10 day** period in which to vote for nominees - anyone may vote. Voters are required to disclose their institutional affiliation, and there must be at most one vote per institution. Voting will take place using a Broda count. If there are three or fewer self-nominees, they will become the Operations Advisory Group without an election.
+
+The ODI will take advice from the Advisory Committee on whether this group needs to be re-structured at any point in time, inclusive of number of members, selection process and member term.
 
 **Other potential groups** 
 
