@@ -6,9 +6,9 @@
  - 2.1 Identifying, applying for, and successfully securing funding over £500k
  - 2.2 Ensuring financial sustainability of an organisation or a venture
  - 2.3 Designing business models for digital applications that are complimentary with:
- - Data sharing and re-use (i.e. not requiring data siloing)
- - Supporting open-source infrastructure
- - Building upon open standards
+    - Data sharing and re-use (i.e. not requiring data siloing)
+    - Supporting open-source infrastructure
+    - Building upon open standards
 
 ## Community, communication, and collaboration
  - 3.1 Successfully supported the development and communication of a mission across a sector that has led to positive impact
