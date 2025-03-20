@@ -66,6 +66,7 @@ The recommended members of the Advisory Committee we believe should include:
 | Server implementors                      | 2 TBA positions                            |
 | Open source representative               | 2 TBA positions                            |
 | Civil society organisation to challenge positions | TBA                                |
+| Inclusion advisor - responsible for advising on how to direct the project in a way that makes it inclusive to everyone / as wide a range of people as possible. | TBA                                |
 | Major funders (at least $1m per annum funding) | 2 TBA positions (Yet to be secured)       |
 | Chapter leads - Country representatives      | Not established as yet                 |
 
@@ -93,6 +94,8 @@ The selection process is as follows:
 There may be the option to offer some financial support for a member, but the general rule is that these roles are voluntary. 
 
 Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
+
+Our goal is to have at least 2 Global South representatives outside the Chapter Representatives and that will make a concerted effort to ensure that the AC listings are advertised to an audience in the Global South, including direct outreach.
 
 #### Meetings
 
