@@ -1,10 +1,10 @@
-### **Proposed Governance Structure for Solid**
+# Proposed Governance Structure for Solid
 
 This is the proposed governance structure for steering the work that the Open Data Institute (ODI) does in its work Stewarding Solid. It is open for a 3 week consultation phase, closing at 23:59PM GMT on February 28, 2025.
 
 If you would like to give feedback on this proposal, please open an issue on this repository. We ask that discussions take place in issues, and that no PRs are made to this document. Any required substantive changes to this document will be made after the end of the consultation period.
 
-#### **ODI Governance Structure** 
+## ODI Governance Structure
 
 Last October, ODI took responsibility for the stewardship of Solid. This means that Solid sits as an initiative within the ODI [structure](https://theodi.org/about-the-odi/the-odi-team/) and [governance](https://theodi.org/our-policies/governance-statement/). 
 
@@ -45,9 +45,9 @@ The ODI is structured through different disciplines.  Solid sits in the **Techno
 | Project/Initiative Lead    | Lead of the project     | Jesse Wright          |
 | Project/Initiative Team    | Delivery team           | Staff / contractors   |
 
-**Proposed Solid Specific Governance** 
+### Proposed Solid Specific Governance
 
-**Advisory Committee**
+#### Advisory Committee
 
 A group of appointed individuals responsible for overseeing Solid, advising on strategic decisions and sustainability. This group will also set the vision, mission and values of the project.
 
@@ -69,7 +69,7 @@ The recommended members of the Advisory Committee we believe should include:
 | Major funders (at least $1m per annum funding) | 2 TBA positions (Yet to be secured)       |
 | Chapter leads - Country representatives      | Not established as yet                 |
 
-**Selection process**
+#### Selection process
 
 With the exception of the roles specified and linked to particular groups / chapters / funders all other roles will be recruited through an open process. Tim, ODI and the chairs (W3C Working Group and Solid Community Group) will run the selection process.
 
@@ -94,11 +94,11 @@ There may be the option to offer some financial support for a member, but the ge
 
 Please note that where possible there should only be one representative from organisations outside of the chairs and Tim.
 
-**Meetings** 
+#### Meetings
 
 There will be four meetings per year. Three half day meetings (3 hours) will be online and the fourth meeting will be in person, full day focusing on strategy.  Initially once we establish the Advisory Committee we will have an in person meeting for a full day of orientation. In person meetings will be subject to available funding. 
 
-**Solid Operations Advisory Group (formerly Solid team)** 
+#### Solid Operations Advisory Group (formerly Solid team)
 
 This group advises on key areas including the solid website, hosting structure for PODs,  solidcommunity.net, GitHub.
 
@@ -115,18 +115,13 @@ The Solid Operations Advisory Group consists of three members elected using the 
 
 The ODI will take advice from the Advisory Committee on whether this group needs to be re-structured at any point in time, inclusive of number of members, selection process and member term.
 
-**Other potential groups** 
+#### Other potential groups
+ - **Adoption and engagement, policy, advocacy and use cases / deployments \-** the need for these additional groups will be discussed with the Advisory Committee.
+ - **Escalation and conflict resolution**
+ - **Advisory Committee** \- is a group that recommends particular courses of action with a focus on strategic direction. In the event of a conflict the matter would be referred to the ODI Board.  It should be noted that throughout the time that ODI has stewarded initiatives there has never been an escalation that required intervention from the ODI Board.
+ - **Solid Operations Advisory Group** \- ODI Director / Head of Technology will make a decision in the event of a dispute.  
 
-**Adoption and engagement, policy, advocacy and use cases / deployments \-** the need for these additional groups will be discussed with the Advisory Committee.
-
-
-**Escalation and conflict resolution**
-
-**Advisory Committee** \- is a group that recommends particular courses of action with a focus on strategic direction. In the event of a conflict the matter would be referred to the ODI Board.  It should be noted that throughout the time that ODI has stewarded initiatives there has never been an escalation that required intervention from the ODI Board.
-
-**Solid Operations Advisory Group** \- ODI Director / Head of Technology will make a decision in the event of a dispute.  
-
-**International Solid Chapters** 
+#### International Solid Chapters
 
 There is likely to be funding available for Solid within different countries around the world.  We discussed this at the ODI Board and agreed that we should keep the cost of setting up in some countries to a minimum as we want to concentrate the funding on building Solid.  The recommendation therefore is that ODI could open branch offices in other countries. In countries where a branch structure is not legally sound or cost-effective, other structures will be considered on a case-by-case basis.
 
