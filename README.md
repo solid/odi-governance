@@ -106,7 +106,7 @@ ODI is happy to help implement this group based on advice from the Advisory Comm
 
 As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritization.
 
-The Solid Operations Advisory Group consists of three members elected using the [ranked choice voting process used to select Chairs of the Solid Community Group](https://www.w3.org/community/solid/charter/). Members are elected for 2-year terms. Specifically,
+The Solid Operations Advisory Group consists of three members for 2-year terms. Specifically,
  - There is a self-nomination process. Candidates are asked to submit a statement justifying their suitability to the role - including experiences and background that means they will ensure accessibility of infrastructure to a diverse range of developers and end users - towards the global vision of Solid. This will be made via a PR to a specified document in this repository. Nominees will have **10 days** from the date of announcement to self-nominate. To self-nominate, candidates must have [meaningfully contributed](https://github.com/solid/odi-governance/pull/20#discussion_r1989960723) to one of the following within the last 12 months, or be endorsed by two community members who have meaningfully contributed to one of the following within the last 12 months:
    - solidproject.org,
    - solidcommunity.net, and
