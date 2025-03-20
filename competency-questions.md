@@ -1,4 +1,4 @@
-## Strategic leadership - vision and setting the direction			
+## Strategic leadership - vision and setting the direction
  - 1.1 Developing and implementing open data, data sovereignty or digital identity strategies with maximum impact.
  - 1.2 Serving on a governance board in private, public or third sector or a member of a National Governing Body	
 
@@ -36,6 +36,18 @@
     - people from a lower socio-economic group
  - 7.4 Of the Solid Project
  - 7.5 Impact of online harms, data misuse and data silo-ing, for individuals and communities, and for the economy
+
+## Implementation Experience Specific Questions
+ - 8.1 Experience implementing the Solid specification as a server implementor
+ - 8.2 Experience feeding implementation experience back into the project
+ - 8.3 What is your view on the current state of the Solid specification? For instance, are there missing features that you would like to see.
+
+## Opensource Representatives Specific Questions
+ - 8.1 Experience implementing Solid based applications
+ - 8.2 Experience feeding implementation experience back into the project
+ - 8.3 What is your view on the current state of the Solid specification? For instance, are there missing features that you would like to see.
+
+## Research Specific Questions
 
 | Role                                         | Required* Questions                   |
 |----------------------------------------------|----------------------------------------|
