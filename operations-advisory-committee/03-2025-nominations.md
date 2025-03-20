@@ -13,4 +13,8 @@ You may be asked to justify your contributions in your PR, and if not, have endo
 
 *Candidates are asked to submit a statement justifying their suitability to the role - including experiences and background that means they will ensure accessibility of infrastructure to a diverse range of developers and end users - towards the global vision of Solid. __Candidates must disclose any institutional affiliations they have.__*
 
+Timeline:
+ - Self nomination closes 11:59 PM (AOE), March 30, 2025
+ - Voting period closes 11:59 PM (AOE), April 10, 2025
+
 ## Nominees
