@@ -1,4 +1,4 @@
-## Solid Operations Advisory Committee March 2025 Self Nominations
+## Solid Operations Advisory Committee - March 2025 - Self Nominations
 
 This document is for self-nomination to the Solid Operations Advisory Committee.
 
