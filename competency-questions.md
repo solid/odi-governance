@@ -36,3 +36,16 @@
     - people from a lower socio-economic group
  - 7.4 Of the Solid Project
  - 7.5 Impact of online harms, data misuse and data silo-ing, for individuals and communities, and for the economy
+
+| Role                                         | Required* Questions                   |
+|----------------------------------------------|----------------------------------------|
+| Government - citizen data                    |                                        |
+| Sustainability representative                |                                        |
+| Social good representation                   |                                        |
+| Representatives from the commercial or research sector   |                            |
+| Server implementors                      |                                            |
+| Open source representative               |                                            |
+| Civil society organisation to challenge positions |                                |
+| Inclusion advisor |                                                                |
+
+*All roles can optionally answer any other questions
