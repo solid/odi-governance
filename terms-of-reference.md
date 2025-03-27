@@ -108,9 +108,9 @@ This group is a strategic group.  Technical or operational matters are dealt wit
 The AC has a formal role to review and respond to monthly reports from:
 
 * The Operations Advisory Committee (OAC) and other stood up advisory groups  
-* The Linked Web Storage Working Group (W3C)  
+* The Linked Web Storage Working Group (W3C WG)  
 * The Practitioners Group (PG)  
-* The Solid Community Group (SCG)
+* The Solid Community Group (W3C WG)
 
 ## 2.0 Advisory Committee member roles and responsibilities
 
