@@ -27,7 +27,7 @@ Drawing from your experience addressing complex social challenges, you will infl
 
 ## Commercial Sector Representative
 You will advise the Solid Advisory Committee on effectively engaging commercial sectors, utilizing your significant experience introducing innovative technologies, standards, and platforms to market. Your role involves designing and the articulation of business cases for Solid to stakeholders and clearly communicating its benefits such as enhanced data control, interoperability, and privacy.
-Additionally, you will support the establishment of strategic commercial partnerships, ensuring these collaborations accelerate Solid’s adoption without undermining its open and decentralized values. Your insights into industry dynamics, market opportunities, and barriers will inform strategic decisions to effectively target specific sectors or customer segments for initial adoption.
+Additionally, you will support the establishment of strategic commercial partnerships, ensuring these collaborations accelerate Solid’s adoption without undermining its user-centric, open and decentralized values. Your insights into industry dynamics, market opportunities, and barriers will inform strategic decisions to effectively target specific sectors or customer segments for initial adoption.
 Ultimately, you will contribute to Solid’s sustainability and global scaling strategy, balancing openness and decentralization with practical market considerations, and helping the project achieve lasting success.
 
 ## Research Sector Representative
