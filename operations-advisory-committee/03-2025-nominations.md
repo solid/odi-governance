@@ -18,3 +18,23 @@ Timeline:
  - Voting period closes 11:59 PM (AOE), April 10, 2025
 
 ## Nominees
+### Alain Bourgeois
+
+I was involved in solid community since 2017, progressively and now at the same time :
+- as a co-developper on solid-file-client and as participant or owner in other apps solid-rest, tiddliwiki for solid ... 
+- migrating data links from solid.community to solidcommunity.net
+- took responsability to the management of solidcommunity.net, including documentation in wiki and test-server
+- After first involvement in blokking issues in NSSv5 I ended as the main maintainer of NSS, and participant of the test-suite.
+- As Solid Admin I had responsability in some Github/npm accounts
+- I am co-maintainer/publisher of SolidOS stack including RdfLib
+
+In February 2025 I made the data migration of NSS to Pivot favour of CSS
+I'm administrator of the Solid-test server
+
+I am a member of Solid Community Group (formerly Solid Team), SolidOS Group and was from its inception a member of Solid Code of Conduct Commitee.
+
+I am a retiree and I have no Institutional affiliation.
+
+
+
+
