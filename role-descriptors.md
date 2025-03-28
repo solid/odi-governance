@@ -17,7 +17,7 @@ Ultimately, your work will contribute to setting long-term priorities, fostering
 
 ## Sustainability Representative (Financial Sustainability)
 Your primary focus will be helping to guide the financial sustainability of the Solid project. With significant experience with open source initiatives, the financial sustainability of core infrastructure, you will support the advisory committee to devise sustainable business models, fundraising strategies, and diversified funding sources.
-Desirable experience includes designing business models for digital applications that are complimentary with data sharing and re-use (i.e. not requiring data siloing), supporting open-source infrastructure and building upon open standards - and facilitating cooperative fundraising between organizations to support core infrastructure used.
+Desirable experience includes designing business models for digital applications that, empower users, are complimentary with data sharing and data portability (i.e. not requiring data siloing), support open-source infrastructure and building upon open standards. Desirable experience also includes facilitating cooperative fundraising between organizations to support core infrastructure used.
 You will also play a key role in advising how to build strategic relationships with philanthropic organizations, grant-making bodies, and other potential funders such as ecosystem members.
 
 ## Social Good Representative
