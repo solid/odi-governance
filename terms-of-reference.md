@@ -6,9 +6,8 @@ Terms of Reference (25th March 2025)
 ### 1.1 Purpose and objectives
 
 * To inform the strategic direction and governance structure of the project  
-* To support the project to meet its aims reimagining data use, reuse and sharing by giving everyone the option to share that personal data, securely, for social and economic benefit. With applications across digital health, AI, and financial inclusion,   
-  * of creating the conditions to mitigate online harms, data misuse and data silo-ing, for individuals and communities and ensure that individuals and communities are empowered by their own data.  
-* Ensure Solid caters  for every one ensuring the core technology is accessible to a diverse range of groups and adoption is promoted globally.  
+* To support the project to meet its aims reimagining data use, reuse and sharing by giving everyone the option to share that personal data, securely, for social and economic benefit. With applications across digital health, AI, and financial inclusion, of creating the conditions to mitigate online harms, data misuse and data silo-ing, for individuals and communities and ensure that individuals and communities are empowered by their own data.  
+* Ensure Solid caters for every one ensuring the core technology is accessible to a diverse range of groups and adoption is promoted globally.  
 
 ### 1.2 Domain responsibilities
 
@@ -122,8 +121,8 @@ To support the ODI in the development of the Solid project by providing insight,
 
 * Ensuring the AC is:  
   * Carrying out its work for wide sector benefit.  
-  * Acting in the best interests of Solid.  
-  * Acting with due care and skill.  
+  * Acting in the best interests of all Web end-users through the Solid project.
+  * Acting with due care and skill.
   * Accountable to its stakeholders and the wider community.  
 * To provide strategic expertise – for the benefit of the project.  
 * To facilitate and support research and analysis \- for the benefit of the project.
@@ -132,7 +131,7 @@ AC members are not appointed as 'representatives' and do not have constituencies
 
 ### 2.3 Managing conflicts of interest
 
-* AC are required to act in the sole interest of Solid. When there are conflicts from a AC member's own work, relationships or interests then to continue to take part in the AC they must remove themselves from these activities.   
+* AC are required to act in the sole interest of Web end-users through the Solid project. When there are conflicts from a AC member's own work, relationships or interests then to continue to take part in the AC they must remove themselves from these activities.   
 * If this is not possible for any reason, AC members must declare a conflict of interest to the AC chair and recuse themselves from all related discussions.  
 * AC members are required to complete a conflict of interest form reviewing their activities and any potential for conflicts on a 6 monthly basis. Where a conflict arises, in the interim period, the AC member is required to update the form and send it to the chair within 2 weeks for review and action. 
 
