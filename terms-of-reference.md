@@ -73,11 +73,12 @@ The selection process is defined [here](https://github.com/solid/odi-governance?
 * Solicit views from – and share views with – community members.  
 * Solicit advice from – and engage with – external experts.  
 * Consult – and share updates – with external stakeholders.      
-* Be a champion for the Solid project. 
+* Be a champion for the Solid project.
+* Acting in the best interests of all Web end-users through the Solid project.
 
 ### 1.9 Reporting and monitoring
 
-* The AC will work transparently..  
+* The AC will work transparently.
 * We work in the open. We will publish papers considered at meetings along with meeting recordings and minutes subject to 1.10. This will include on the Github solid/odi-governance repository. 
 
 ### 1.10 Confidentiality  
