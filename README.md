@@ -104,11 +104,7 @@ There will be four meetings per year. Three half day meetings (3 hours) will be 
 
 #### Solid Operations Advisory Group (formerly Solid team)
 
-This group advises on key areas including the solid website, hosting structure for PODs,  solidcommunity.net, GitHub.
-
-ODI is happy to help implement this group based on advice from the Advisory Committee. We would suggest that members are in place for a 2-year term. 
-
-As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritization.
+The Solid Operations Advisory Group is a volunteer group that is self-nominated and elected by the community. This group is not expected to do substantive day-to-day work, but rather act as representatives that guide key decisions - for instance, they would have been consulted on whether to proceed with the recent solidcommunity.net migration. They would also be advising on the infrastructure roadmap which would guide where employed maintenance staff in the Project/Initiative Team would focus their time. As ODI gets resources to start supporting the implementation of a roadmap for Solid, and to better help coordinate the community at a technical level on tasks such as codebase creation and maintenance \- this advisory group would also feed back into the roadmap prioritization.
 
 The Solid Operations Advisory Group consists of three members for 2-year terms. Specifically,
  - There is a self-nomination process. Candidates are asked to submit a statement justifying their suitability to the role - including experiences and background that means they will ensure accessibility of infrastructure to a diverse range of developers and end users - towards the global vision of Solid. This will be made via a PR to a specified document in this repository. Nominees will have **10 days** from the date of announcement to self-nominate. To self-nominate, candidates must have [meaningfully contributed](https://github.com/solid/odi-governance/pull/20#discussion_r1989960723) to one of the following within the last 12 months, or be endorsed by two community members who have meaningfully contributed to one of the following within the last 12 months:
