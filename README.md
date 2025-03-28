@@ -37,7 +37,7 @@ The **Executive Leadership Team** reports to the Board and consists of the follo
 | Stuart Coleman    | Director of Consultancy and Learning       |
 | Emma Thwaites     | Director of Global Public Policy and Corporate Affairs |
 
-The ODI is structured through different disciplines.  Solid sits in the **Technology Discipline**.  The Technology Discipline structure delivery of projects / initiatives in the following way:
+The ODI is structured through different disciplines.  Solid sits in the **Technology Discipline**. All the following roles are appointed through the existing hiring and contracting processes that the ODI has in place. ODI hiring complies with the [Equal Opportunities & Diversity](./odi-eoad.pdf) policy and contracting follows the [ODI Procurement Policy](https://theodi.org/our-policies/procurement-policy/). Sir Tim Berners-Lee is directly involved in the hiring of the Director of Technology, hiring decisions for all other roles lie with the CEO and Directory of Technology - in consultation with the Project Lead for Delivery team roles. The Technology Discipline structures the delivery of projects/initiatives in the following way:
 
 | Role                     | Responsibility          | Name/Position         |
 |--------------------------|-------------------------|-----------------------|
