@@ -24,9 +24,10 @@ Will you require any accomodation(s) to participate in the selection process? If
 
 
 **Ethnic Origin**  
-Ethnic origin is about nationality, place of birth or citizenship. It is about the group to which you belong. Please highlight the appropriate one
+Ethnic origin is not about nationality, place of birth or citizenship. It is about the group to which you belong. Please highlight the appropriate one
 
-Asian / Asian British.	Black / Black British.	Mixed Multiple Ethnicity	White.		Indian / Pakistani / Bangladeshi / Chinese / Any other Asian background.		Other.		Any other ethnic background.	Prefer not to say
+Asian / Asian British.	Black / Black British.	Mixed Multiple Ethnicity	White.		Indian / Pakistani / Bangladeshi / Chinese / Any other Asian background. Indigenous.	Any other ethnic background (specify below).	Prefer not to say
+
 
 **Sexual Orientation**
 
