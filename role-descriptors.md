@@ -1,4 +1,4 @@
-# Solid Advisory Committee Role Descriptions
+# ODI-Solid Advisory Committee Role Descriptions
 Solid, an open-source initiative led by Sir Tim Berners-Lee, is reimagining data use, reuse and sharing by giving everyone the option to share a range of data - including personal, organizational or commercial - securely, for social and economic benefit. With applications across digital health, AI, and financial inclusion, Solid holds immense potential as a transformative vector for societal impact. To date, Solid technologies have already been used in numerous projects including:  
  - Improving citizens access to services, including the homeless 
  - Building more resilient and sustainable food supply chains
