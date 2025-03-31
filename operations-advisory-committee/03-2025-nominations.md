@@ -36,5 +36,15 @@ I am a member of Solid Community Group (formerly Solid Team), SolidOS Group and 
 I am a retiree and I have no Institutional affiliation.
 
 
+### Thhck
 
+I'm a web developpeur working on [Liquid.surf](https://github.com/Liquid-Surf), which aims to lower the entry barrier into the Solid world for both users and programmers. I have an understanding of the CSS codebase and its Components.js dependency injection framework, which has been my main contribution to the Solid community::
+
+ - I have implemented various CSS components ([FedCM](https://github.com/Liquid-Surf/fedcm-demo), [OIDC-OAuth bridge](https://github.com/Liquid-Surf/css-direct-sso-auth)) and host a CSS/Penny recipe at pod.liquid.surf 
+
+ - I'm assisting with the NSS to CSS transition of solidcommunity.net by building new components, such as:
+   -  a [simpler registration page](https://github.com/thhck/css-simple-register-component)
+   -  and re-implementing the [proxy](https://github.com/thhck/css-proxy-module). 
+
+I'm currently also exploring other standards such as [Braid](https://braid.org) and Activity Pub and how they can interoperate with Solid
 
