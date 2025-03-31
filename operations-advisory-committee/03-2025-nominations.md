@@ -46,5 +46,6 @@ I'm a web developpeur working on [Liquid.surf](https://github.com/Liquid-Surf), 
    -  a [simpler registration page](https://github.com/thhck/css-simple-register-component)
    -  and re-implementing the [proxy](https://github.com/thhck/css-proxy-module). 
 
-I'm currently also exploring other standards such as [Braid](https://braid.org) and Activity Pub and how they can interoperate with Solid
+I'm currently also exploring other standards such as [Braid](https://braid.org) and Activity Pub and how they can interoperate with Solid. 
 
+I have been granted by the NLnet fund for working on liquid.surf ( if that count as an institutionnal affiliation ) 
