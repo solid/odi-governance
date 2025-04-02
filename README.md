@@ -1,4 +1,4 @@
-# Proposed Governance Structure for Solid
+# Proposed Governance Structure for ODI Stewardship of Solid
 
 This is the proposed governance structure for steering the work that the Open Data Institute (ODI) does in its work Stewarding Solid. It is open for a 3 week consultation phase, closing at 23:59PM GMT on February 28, 2025.
 
@@ -45,7 +45,7 @@ The ODI is structured through different disciplines.  Solid sits in the **Techno
 | Project/Initiative Lead    | Lead of the project     | Jesse Wright          |
 | Project/Initiative Team    | Delivery team           | Staff / contractors   |
 
-### Proposed Solid Specific Governance
+### Proposed Governance for ODI stewardship of Solid
 
 #### Advisory Committee
 
@@ -110,7 +110,7 @@ The Solid Operations Advisory Group consists of three members for 2-year terms. 
  - There is a self-nomination process. Candidates are asked to submit a statement justifying their suitability to the role - including experiences and background that means they will ensure accessibility of infrastructure to a diverse range of developers and end users - towards the global vision of Solid. This will be made via a PR to a specified document in this repository. Nominees will have **10 days** from the date of announcement to self-nominate. To self-nominate, candidates must have [meaningfully contributed](https://github.com/solid/odi-governance/pull/20#discussion_r1989960723) to one of the following within the last 12 months, or be endorsed by two community members who have meaningfully contributed to one of the following within the last 12 months:
    - solidproject.org,
    - solidcommunity.net, and
-   - any repositories under the solid GitHub organizations.
+   - any repositories under the solid GitHub organization excluding specification repositories under W3C remit.
  - There will be a **10 day** period in which to vote for nominees - anyone may vote. Voters are required to disclose their institutional affiliation, and there must be at most one vote per institution. Voting will take place using a Broda count. If there are three or fewer self-nominees, they will become the Operations Advisory Group without an election.
 
 The ODI will take advice from the Advisory Committee on whether this group needs to be re-structured at any point in time, inclusive of number of members, selection process and member term.
