@@ -110,7 +110,7 @@ The Solid Operations Advisory Group consists of three members for 2-year terms. 
  - There is a self-nomination process. Candidates are asked to submit a statement justifying their suitability to the role - including experiences and background that means they will ensure accessibility of infrastructure to a diverse range of developers and end users - towards the global vision of Solid. This will be made via a PR to a specified document in this repository. Nominees will have **10 days** from the date of announcement to self-nominate. To self-nominate, candidates must have [meaningfully contributed](https://github.com/solid/odi-governance/pull/20#discussion_r1989960723) to one of the following within the last 12 months, or be endorsed by two community members who have meaningfully contributed to one of the following within the last 12 months:
    - solidproject.org,
    - solidcommunity.net, and
-   - any repositories under the solid and solid-contrib GitHub organizations.
+   - any repositories under the solid GitHub organizations.
  - There will be a **10 day** period in which to vote for nominees - anyone may vote. Voters are required to disclose their institutional affiliation, and there must be at most one vote per institution. Voting will take place using a Broda count. If there are three or fewer self-nominees, they will become the Operations Advisory Group without an election.
 
 The ODI will take advice from the Advisory Committee on whether this group needs to be re-structured at any point in time, inclusive of number of members, selection process and member term.
