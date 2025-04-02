@@ -143,7 +143,7 @@ AC members are not appointed as 'representatives' and do not have constituencies
 ### 2.5 Chair   
 In the first instance, ODI will chair this committee up until the review point stated in 1.11 (May 2026)
 
-### 2.7 How to apply to be part of the AC	
+### 2.6 How to apply to be part of the AC	
 
 When there are vacancies arising during the term, we will openly advertise these positions. Applications for the Advisory Committee are reviewed by the panel described in the selection process (see [here](https://github.com/solid/odi-governance?tab=readme-ov-file#selection-process)).
 
