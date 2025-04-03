@@ -57,8 +57,8 @@ The recommended members of the Advisory Committee we believe should include:
 |----------------------------------------------|----------------------------------------|
 | Lead of the Solid Project                    | Tim Berners-Lee                        |
 | ODI Representative                           | ODI                                    |
-| W3C Group Representative                     | W3C Group Chair                        |
-| Solid Community Group Representative         | Solid Community Group Chair            |
+| W3C Group Representative                     | A W3C Group Chair                      |
+| Solid Community Group Representative         | A Solid Community Group Chair          |
 | Practitioners Representative                 | Elected by the Practitioners Group     |
 | Government - citizen data                    | TBA                                    |
 | Sustainability representative                | TBA                                    |
