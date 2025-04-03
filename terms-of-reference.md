@@ -105,7 +105,7 @@ This group is a strategic group.  Technical or operational matters are dealt wit
    
 ### 1.13 Interactions with other Solid forums
 
-The AC has a formal role to review and respond to monthly reports from:
+The AC has a formal role to review and respond to monthly (or quarterly at the ACs discretion) reports from:
 
 * The Operations Advisory Committee (OAC) and other stood up advisory groups  
 * The Linked Web Storage Working Group (W3C WG)  
