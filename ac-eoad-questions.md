@@ -6,38 +6,36 @@ Please highlight the appropriate answer
 
 **Gender;**
 
-Man.		Woman. 	Non-binary. 		Another Gender.		Prefer not to say 
+Man. Woman. Non-binary. Another Gender. Prefer not to say
 
-**Age**  
-16 – 24	.	25–34.		35-44.		45–54.		55–64.		65+.	
+**Age**
+16 – 24 . 25–34. 35-44. 45–54. 55–64. 65+.
 
 Prefer not to say
 
-**Disability**  
+**Disability**
 The Disability Discrimination Act as incorporated in Equality Act 2010 defines a person as disabled if they have a physical or mental impairment which has substantial and long-term (i.e. has lasted or is expected to last at least 12 months) adverse effect on their ability to carry out normal day to day activities.
 
 Do you consider yourself to be a disabled person?
 
-Yes		No		Prefer not to say
+Yes No Prefer not to say
 
-Will you require any accomodation(s) to participate in the selection process? If yes please tell us below. 
+Will you require any accomodation(s) to participate in the selection process? If yes please tell us below.
 
-
-**Ethnic Origin**  
+**Ethnic Origin**
 Ethnic origin is not about nationality, place of birth or citizenship. It is about the group to which you belong. Please highlight the appropriate one
 
-Asian / Asian British.	Black / Black British.	Mixed Multiple Ethnicity	White.		Indian / Pakistani / Bangladeshi / Chinese / Any other Asian background. Indigenous.	Any other ethnic background (specify below).	Prefer not to say
-
+Asian / Asian British. Black / Black British. Mixed Multiple Ethnicity White. Indian / Pakistani / Bangladeshi / Chinese / Any other Asian background. Indigenous. Any other ethnic background (specify below). Prefer not to say
 
 **Sexual Orientation**
 
-Queer (2SLGBTQIA+). Not Queer (Heterosexual).	Prefer not to say
+Queer (2SLGBTQIA+). Not Queer (Heterosexual). Prefer not to say
 
 **Religion or belief**
 
-No religion.	Buddhist.	Christian.	Hindu.	Jewish.	Muslim.	Sikh.	Other.		Prefer not to say
+No religion. Buddhist. Christian. Hindu. Jewish. Muslim. Sikh. Other. Prefer not to say
 
-**Caring Responsibilities:**   
+**Caring Responsibilities:**
 Do you have caring responsibilities? (Parent, Child, Spouse, etc.)
 
 Yes / No
@@ -46,7 +44,7 @@ Will you require any accommodation(s) to participate in the board selection proc
 
 **Marital / Civil Partnership Status**
 
-Married.	Civil Partnership.	Single.	I’d prefer not to say.		Other
+Married. Civil Partnership. Single. I’d prefer not to say. Other
 
 **Signature:**
 

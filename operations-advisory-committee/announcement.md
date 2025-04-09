@@ -12,7 +12,7 @@ Best,
 
 Dear Solid Community,
 
-We are opening voting for the Solid Operations Advisory Committee. 
+We are opening voting for the Solid Operations Advisory Committee.
 
 Voting closes 11:59 PM (AOE), April 10, 2025
 
